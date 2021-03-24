@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @msrisabaranjan
+- 👋 Hi, I’m Mindan Srisabaranjan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+## Welcome to my Github Portfolio,
+
+Feel free to reach me at:
+- LinkedIn -https://www.linkedin.com/in/msrisabaranjan/
+
 
 <!---
 msrisabaranjan/msrisabaranjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
